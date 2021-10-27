@@ -1,0 +1,16 @@
+.navbar {
+  background-color: rgb(94, 250, 94);
+}
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+  font-size: 20px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  text-decoration: underline;
+}
+.nav-item1 {
+  font-weight: 500;
+}
+.nav-item2 {
+  font-weight: 500;
+}
